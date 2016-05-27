@@ -1,0 +1,7 @@
+place ur email id and password of gmail in the files feefinal/phpmailer/mailtest , feefinal/phpmailer/mailtest1 , feefinal/phpmailer/mailtest2,feefinal/phpmailer/mailtestfee  where u can see 
+define('GUSER', ''); // GMail username
+define('GPWD', ''); // GMail password
+
+
+eg:define('GUSER', 'hdsehksdhk@gmail.com'); // GMail username
+define('GPWD', '836yuesdsfd'); // GMail password
